@@ -1,0 +1,167 @@
+8:586  2:945  Found BIOS RSDP at F0000
+8:586  0:000  Printing ACPI tables from RSDP F0000 ...
+8:586  0:000   F0000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+8:586  0:000    (Xsdt: D57760A8, Rsdt: D5776028)
+8:586  0:000    D57760A8: 'XSDT', 'Notebook', Rev: 1, Len: 196
+8:586  0:000    D5776028: 'RSDT', 'Notebook', Rev: 1, Len: 116
+8:586  0:000    Tables in Xsdt: 20
+8:586  0:000    0. D578EE30: 'FACP', 'Notebook', Rev: 5, Len: 268
+8:586  0:000        (Dsdt: D5776200, Facs: D646AF80, XDsdt: D5776200, XFacs: 0)
+8:586  0:000        D5776200: 'DSDT', 'Notebook', Rev: 2, Len: 101421
+8:589  0:003        D646AF80: 'FACS', Ver: 2, Len: 64
+8:589  0:000    1. D578EF40: 'APIC', 'Notebook', Rev: 3, Len: 132
+8:589  0:000    2. D578EFC8: 'FPDT', 'Notebook', Rev: 1, Len: 68
+8:589  0:000    3. D578F010: 'FIDT', 'Notebook', Rev: 1, Len: 156
+8:589  0:000    4. D578F0B0: 'ECDT', 'Notebook', Rev: 1, Len: 193
+8:589  0:000    5. D578F178: 'MCFG', 'Notebook', Rev: 1, Len: 60
+8:589  0:000    6. D578F1B8: 'HPET', 'Notebook', Rev: 1, Len: 56
+8:589  0:000    7. D578F1F0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+8:589  0:000    8. D578F508: 'UEFI', '', Rev: 1, Len: 66
+8:589  0:000    9. D578F550: 'SSDT', 'zpodd', Rev: 1, Len: 404
+8:589  0:000    10. D578F6E8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+8:589  0:000    11. D5790368: 'ASF!', ' HCG', Rev: 32, Len: 160
+8:589  0:000    12. D5790408: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1172
+8:589  0:000    13. D57908A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+8:589  0:000    14. D5791418: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+8:589  0:000    15. D5794660: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+8:589  0:000    16. D57949F8: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+8:589  0:000    17. D5794A68: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+8:589  0:000    18. D5795530: 'SSDT', 'SaSsdt', Rev: 2, Len: 26146
+8:589  0:000    19. D579BB58: 'BGRT', 'Notebook', Rev: 1, Len: 56
+8:589  0:000    Tables in Rsdt: 20
+8:589  0:000    0. D5776178: 'FACP', 'Notebook', Rev: 2, Len: 132
+8:589  0:000        (Dsdt: D5776200, Facs: D646AF40)
+8:589  0:000        D5776200: 'DSDT', 'Notebook', Rev: 2, Len: 101421
+8:592  0:003        D646AF40: 'FACS', Ver: 0, Len: 64
+8:592  0:000    1. D578EF40: 'APIC', 'Notebook', Rev: 3, Len: 132
+8:592  0:000    2. D578EFC8: 'FPDT', 'Notebook', Rev: 1, Len: 68
+8:592  0:000    3. D578F010: 'FIDT', 'Notebook', Rev: 1, Len: 156
+8:592  0:000    4. D578F0B0: 'ECDT', 'Notebook', Rev: 1, Len: 193
+8:592  0:000    5. D578F178: 'MCFG', 'Notebook', Rev: 1, Len: 60
+8:592  0:000    6. D578F1B8: 'HPET', 'Notebook', Rev: 1, Len: 56
+8:592  0:000    7. D578F1F0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+8:592  0:000    8. D578F508: 'UEFI', '', Rev: 1, Len: 66
+8:592  0:000    9. D578F550: 'SSDT', 'zpodd', Rev: 1, Len: 404
+8:592  0:000    10. D578F6E8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+8:592  0:000    11. D5790368: 'ASF!', ' HCG', Rev: 32, Len: 160
+8:592  0:000    12. D5790408: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1172
+8:592  0:000    13. D57908A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+8:592  0:000    14. D5791418: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+8:592  0:000    15. D5794660: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+8:592  0:000    16. D57949F8: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+8:592  0:000    17. D5794A68: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+8:592  0:000    18. D5795530: 'SSDT', 'SaSsdt', Rev: 2, Len: 26146
+8:592  0:000    19. D579BB58: 'BGRT', 'Notebook', Rev: 1, Len: 56
+8:592  0:000  Found UEFI Acpi 2.0 RSDP at D5776000
+8:592  0:000  Saving ACPI tables from RSDP D5776000 to EFI\CLOVER\ACPI\origin ...
+8:592  0:000   D5776000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+8:606  0:013    (Xsdt: D57760A8, Rsdt: D5776028)
+8:606  0:000    D57760A8: 'XSDT', 'Notebook', Rev: 1, Len: 196 -> XSDT.aml
+8:618  0:011    D5776028: 'RSDT', 'Notebook', Rev: 1, Len: 116 -> RSDT.aml
+8:632  0:013    Tables in Xsdt: 20
+8:632  0:000    0. D578EE30: 'FACP', 'Notebook', Rev: 5, Len: 268 -> FACP.aml
+8:646  0:014        (Dsdt: D5776200, Facs: D646AF80, XDsdt: D5776200, XFacs: 0)
+8:646  0:000        D5776200: 'DSDT', 'Notebook', Rev: 2, Len: 101421 -> DSDT.aml
+8:668  0:022        D646AF80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+8:680  0:012    1. D578EF40: 'APIC', 'Notebook', Rev: 3, Len: 132 -> APIC.aml
+8:693  0:012    2. D578EFC8: 'FPDT', 'Notebook', Rev: 1, Len: 68 -> FPDT.aml
+8:705  0:012    3. D578F010: 'FIDT', 'Notebook', Rev: 1, Len: 156 -> FIDT.aml
+8:718  0:012    4. D578F0B0: 'ECDT', 'Notebook', Rev: 1, Len: 193 -> ECDT.aml
+8:730  0:012    5. D578F178: 'MCFG', 'Notebook', Rev: 1, Len: 60 -> MCFG.aml
+8:742  0:012    6. D578F1B8: 'HPET', 'Notebook', Rev: 1, Len: 56 -> HPET.aml
+8:755  0:012    7. D578F1F0: 'SSDT', 'SataTabl', Rev: 1, Len: 789 -> SSDT-0-SataTabl.aml
+8:768  0:013    8. D578F508: 'UEFI', '', Rev: 1, Len: 66 -> UEFI.aml
+8:782  0:013    9. D578F550: 'SSDT', 'zpodd', Rev: 1, Len: 404 -> SSDT-1-zpodd.aml
+8:796  0:013    10. D578F6E8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197 -> SSDT-2-Ther_Rvp.aml
+8:815  0:018    11. D5790368: 'ASF!', ' HCG', Rev: 32, Len: 160 -> ASF!.aml
+8:827  0:012    12. D5790408: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1172 -> SSDT-3-Cpu0Ist.aml
+8:840  0:012    13. D57908A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932 -> SSDT-4-CpuSsdt.aml (Found hidden SSDT 4 pcs)
+8:852  0:011        * D4412A98: '', 'çåÒ', Rev: 0, Len: 0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+8:852  0:000        * D4ABB618: 'SSDT', 'ApIst', Rev: 2, Len: 1450  53 53 44 54 AA 05 00 00 02 CE 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-x4_0-ApIst.aml
+8:864  0:012        * D4ABA918: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 979  53 53 44 54 D3 03 00 00 02 AE 50 6D 52 65 66 00 Internal length = 979 -> SSDT-x4_1-Cpu0Cst.aml
+8:876  0:012        * D4ABCC18: 'SSDT', 'ApCst', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 EA 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x4_2-ApCst.aml
+8:891  0:014  
+8:891  0:000    14. D5791418: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869 -> SSDT-5-DptfTabl.aml
+8:904  0:012    15. D5794660: 'SSDT', 'CppcTabl', Rev: 2, Len: 916 -> SSDT-6-CppcTabl.aml
+8:916  0:011    16. D57949F8: 'PCCT', 'PcctTabl', Rev: 5, Len: 110 -> PCCT.aml
+8:928  0:011    17. D5794A68: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756 -> SSDT-7-Cpc_Tabl.aml
+8:940  0:012    18. D5795530: 'SSDT', 'SaSsdt', Rev: 2, Len: 26146 -> SSDT-8-SaSsdt.aml
+8:953  0:012    19. D579BB58: 'BGRT', 'Notebook', Rev: 1, Len: 56 -> BGRT.aml
+8:965  0:012    Tables in Rsdt: 20
+8:965  0:000    0. D5776178: 'FACP', 'Notebook', Rev: 2, Len: 132 -> RSDT-FACP.aml
+8:980  0:014        (Dsdt: D5776200, Facs: D646AF40)
+8:980  0:000        D5776200: 'DSDT', 'Notebook', Rev: 2, Len: 101421
+8:983  0:003        D646AF40: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+8:995  0:011    1. D578EF40: 'APIC', 'Notebook', Rev: 3, Len: 132
+8:995  0:000    2. D578EFC8: 'FPDT', 'Notebook', Rev: 1, Len: 68
+8:995  0:000    3. D578F010: 'FIDT', 'Notebook', Rev: 1, Len: 156
+8:995  0:000    4. D578F0B0: 'ECDT', 'Notebook', Rev: 1, Len: 193
+8:995  0:000    5. D578F178: 'MCFG', 'Notebook', Rev: 1, Len: 60
+8:995  0:000    6. D578F1B8: 'HPET', 'Notebook', Rev: 1, Len: 56
+8:995  0:000    7. D578F1F0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+8:995  0:000    8. D578F508: 'UEFI', '', Rev: 1, Len: 66
+8:995  0:000    9. D578F550: 'SSDT', 'zpodd', Rev: 1, Len: 404
+8:995  0:000    10. D578F6E8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+8:995  0:000    11. D5790368: 'ASF!', ' HCG', Rev: 32, Len: 160
+8:995  0:000    12. D5790408: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1172
+8:995  0:000    13. D57908A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+8:995  0:000    14. D5791418: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+8:995  0:000    15. D5794660: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+8:995  0:000    16. D57949F8: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+8:995  0:000    17. D5794A68: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+8:995  0:000    18. D5795530: 'SSDT', 'SaSsdt', Rev: 2, Len: 26146
+8:995  0:000    19. D579BB58: 'BGRT', 'Notebook', Rev: 1, Len: 56
+8:995  0:000  Found UEFI Acpi 1.0 RSDP at D5776000
+8:995  0:000  Printing ACPI tables from RSDP D5776000 ...
+8:995  0:000   D5776000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+8:995  0:000    (Xsdt: D57760A8, Rsdt: D5776028)
+8:995  0:000    D57760A8: 'XSDT', 'Notebook', Rev: 1, Len: 196
+8:995  0:000    D5776028: 'RSDT', 'Notebook', Rev: 1, Len: 116
+8:995  0:000    Tables in Xsdt: 20
+8:995  0:000    0. D578EE30: 'FACP', 'Notebook', Rev: 5, Len: 268
+8:995  0:000        (Dsdt: D5776200, Facs: D646AF80, XDsdt: D5776200, XFacs: 0)
+8:995  0:000        D5776200: 'DSDT', 'Notebook', Rev: 2, Len: 101421
+8:998  0:003        D646AF80: 'FACS', Ver: 2, Len: 64
+8:998  0:000    1. D578EF40: 'APIC', 'Notebook', Rev: 3, Len: 132
+8:998  0:000    2. D578EFC8: 'FPDT', 'Notebook', Rev: 1, Len: 68
+8:998  0:000    3. D578F010: 'FIDT', 'Notebook', Rev: 1, Len: 156
+8:998  0:000    4. D578F0B0: 'ECDT', 'Notebook', Rev: 1, Len: 193
+8:998  0:000    5. D578F178: 'MCFG', 'Notebook', Rev: 1, Len: 60
+8:998  0:000    6. D578F1B8: 'HPET', 'Notebook', Rev: 1, Len: 56
+8:998  0:000    7. D578F1F0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+8:998  0:000    8. D578F508: 'UEFI', '', Rev: 1, Len: 66
+8:998  0:000    9. D578F550: 'SSDT', 'zpodd', Rev: 1, Len: 404
+8:998  0:000    10. D578F6E8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+8:998  0:000    11. D5790368: 'ASF!', ' HCG', Rev: 32, Len: 160
+8:998  0:000    12. D5790408: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1172
+8:998  0:000    13. D57908A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+8:998  0:000    14. D5791418: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+8:998  0:000    15. D5794660: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+8:998  0:000    16. D57949F8: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+8:998  0:000    17. D5794A68: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+8:998  0:000    18. D5795530: 'SSDT', 'SaSsdt', Rev: 2, Len: 26146
+8:998  0:000    19. D579BB58: 'BGRT', 'Notebook', Rev: 1, Len: 56
+8:998  0:000    Tables in Rsdt: 20
+8:998  0:000    0. D5776178: 'FACP', 'Notebook', Rev: 2, Len: 132
+8:998  0:000        (Dsdt: D5776200, Facs: D646AF40)
+8:998  0:000        D5776200: 'DSDT', 'Notebook', Rev: 2, Len: 101421
+9:002  0:003        D646AF40: 'FACS', Ver: 0, Len: 64
+9:002  0:000    1. D578EF40: 'APIC', 'Notebook', Rev: 3, Len: 132
+9:002  0:000    2. D578EFC8: 'FPDT', 'Notebook', Rev: 1, Len: 68
+9:002  0:000    3. D578F010: 'FIDT', 'Notebook', Rev: 1, Len: 156
+9:002  0:000    4. D578F0B0: 'ECDT', 'Notebook', Rev: 1, Len: 193
+9:002  0:000    5. D578F178: 'MCFG', 'Notebook', Rev: 1, Len: 60
+9:002  0:000    6. D578F1B8: 'HPET', 'Notebook', Rev: 1, Len: 56
+9:002  0:000    7. D578F1F0: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:002  0:000    8. D578F508: 'UEFI', '', Rev: 1, Len: 66
+9:002  0:000    9. D578F550: 'SSDT', 'zpodd', Rev: 1, Len: 404
+9:002  0:000    10. D578F6E8: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3197
+9:002  0:000    11. D5790368: 'ASF!', ' HCG', Rev: 32, Len: 160
+9:002  0:000    12. D5790408: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1172
+9:002  0:000    13. D57908A0: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+9:002  0:000    14. D5791418: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+9:002  0:000    15. D5794660: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+9:002  0:000    16. D57949F8: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+9:002  0:000    17. D5794A68: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+9:002  0:000    18. D5795530: 'SSDT', 'SaSsdt', Rev: 2, Len: 26146
+9:002  0:000    19. D579BB58: 'BGRT', 'Notebook', Rev: 1, Len: 56
